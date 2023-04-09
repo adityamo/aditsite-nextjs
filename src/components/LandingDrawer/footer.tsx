@@ -89,8 +89,6 @@ const footer = () => {
                 <div className="col-md-12 col-sm-12">
                   Copyright © <span id="year"></span>
                   Designed with{" aditya septama"}
-                  <span className="fa fa-heart text-danger"></span> by{" "}
-                  <a href="#"> Spruko </a> All rights reserved.
                 </div>
               </div>
             </footer>
