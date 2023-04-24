@@ -47,7 +47,7 @@ const header = () => {
       </div>
       {/* End Mobile View  */}
 
-      <div className="landing-top-header overflow-hidden">
+      <div className="landing-top-header overflow-hidden bg-transparent">
         <div
           className={`top sticky overflow-hidden ${onTop ? "stickyClass" : ""}`}
         >
