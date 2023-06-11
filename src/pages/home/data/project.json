@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "DMS Mobile",
+    "imgUrl": "/project/DMS-mobile.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Potaru",
+    "imgUrl": "/project/potaru.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Rumah Sakit",
+    "imgUrl": "/project/rumahsakit.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Surat Jalan Center",
+    "imgUrl": "/project/suratjalancenter.jpg"
+  },
+  {
+    "id": 5,
+    "title": "TicketBook",
+    "imgUrl": "/project/ticketbook.jpg"
+  }
+]

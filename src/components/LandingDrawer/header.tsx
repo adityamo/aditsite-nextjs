@@ -17,8 +17,6 @@ const header = () => {
     };
   });
 
-  console.log(onTop);
-
   return (
     <React.Fragment>
       {/* Mobile view */}

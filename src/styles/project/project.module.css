@@ -1,0 +1,32 @@
+.project-landing {
+  background-repeat: no-repeat;
+  background-position: center;
+  content: "";
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(
+    to right top,
+    #5935b3,
+    #3257c5,
+    #0072ce,
+    #0488ce,
+    #419ccb,
+    #4da0c6,
+    #5aa4c1,
+    #68a7bc,
+    #579eb4,
+    #4594ac,
+    #2f8ba5,
+    #09829d
+  );
+}
+
+.slick-slide img {
+  width: 700px;
+  height: 500px;
+  background-color: none;
+  margin: auto;
+}

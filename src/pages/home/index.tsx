@@ -9,6 +9,11 @@ import Mobile from "@/components/page-section/Mobile";
 import Website from "@/components/page-section/Website";
 import Support from "@/components/page-section/Support";
 import Resume from "@/components/page-section/Resume";
+import Project from "@/components/page-section/Project";
+
+/* Data */
+import resumedata from "./data/resumedata.json";
+import slideData from "./data/project.json";
 
 const HomeBase = (): JSX.Element => {
   return (
@@ -19,7 +24,8 @@ const HomeBase = (): JSX.Element => {
       <Mobile />
       <Website />
       <Support />
-      <Resume />
+      <Resume data={resumedata} />
+      <Project sliderData={slideData} />
     </LandingDrawer>
   );
 };

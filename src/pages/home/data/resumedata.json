@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Internship Programmer Fullstack PHP",
+    "company": "PT Inti Ganda Perdana (Astra Group) | Jakarta - IDN",
+    "year": "2016 - 2017",
+    "description": "During the internship process I developed an application website - based calibration scheduling using PHP Native and MySQL databases "
+  },
+  {
+    "id": 2,
+    "title": "Web Developer",
+    "company": "BMT Digital | Jawa Barat - IDN",
+    "year": "2017 - 2018",
+    "description": "Inside company we create apps for Point of Sale and Comapany Profile Base on Website, we develope this project with fullstack php native and combine with jquery, to database we use MySql Server"
+  },
+  {
+    "id": 3,
+    "title": "IT Programmer ASP.Net C#",
+    "company": "PT Dasa Prima | Jawa Barat - IDN",
+    "year": "2018 - 2020",
+    "description": "Develop web-based applications ASP.Net C#, and using SQL Server database"
+  },
+  {
+    "id": 4,
+    "title": "Frontend Engineer & UI/UX",
+    "company": "PT Seino Indomobil Logistics | Jakarta - IDN",
+    "year": "2020 - Now",
+    "description": "Interesting experience in here, where here i started to focus on things frontend and UI/UX engineers, in this company also work as fullstack developer for the website, and i also lead in every interface planning in many apps of company whether mobile or website"
+  }
+]

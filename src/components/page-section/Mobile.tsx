@@ -3,7 +3,7 @@ import style from "../../styles/mobile/mobile.module.css";
 
 const Mobile = () => {
   return (
-    <section className={`section ${style.mobilestyle} pb-5`} id="Mobile">
+    <section className={`section ${style.mobilestyle} pb-0`} id="Mobile">
       <div className="container">
         <div className="row align-items-center">
           <div className="col-lg-6 col-sm-12">

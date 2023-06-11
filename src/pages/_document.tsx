@@ -34,6 +34,7 @@ export default class MyDocument extends Document {
           {/* BOOTSRAP JS  */}
           <script src="/static/dst/plugin/bootstrap/js/popper.min.js"></script>
           <script src="/static/dst/plugin/bootstrap/js/bootstrap.min.js"></script>
+          <script src="/static/dst/plugin/owl-carousel/owl.carousel.js"></script>
           {/* <script src="/static/dst/js/sticky.js"></script> */}
         </body>
       </Html>
